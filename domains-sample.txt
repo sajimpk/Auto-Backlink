@@ -1,0 +1,10 @@
+# Sample domains for batch processing
+# One domain per line
+
+example.com
+google.com
+https://github.com/your-project
+https://www.youtube.com/channel/UCxxxxxx
+domain-name.org
+subdomain.example.com
+localhost:8000
